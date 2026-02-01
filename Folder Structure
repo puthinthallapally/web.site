@@ -1,14 +1,1 @@
-perfect-style-site/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── images/
-│   ├── audio/
-│
-└── libs/
-    ├── gsap.min.js
-    ├── ScrollTrigger.min.js
-    └── three.min.js
+
